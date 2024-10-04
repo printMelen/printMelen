@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **redondo.alvaro@gmail.com**
+- 📫 How to reach me **alvaroredrodriguez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
