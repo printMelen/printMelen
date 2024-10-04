@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Álvaro Redondo</h1>
 <h3 align="center">A passionate web developer from Spain</h3>
 
-- 🔭 I’m currently working on **a cinema web**
+- 🔭 I’m currently working on **a recipe web**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **cool projects**
 
