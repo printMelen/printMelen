@@ -9,9 +9,7 @@
 
 - 🤝 I’m looking for help with **all type of projects**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
-- ⚡ Fun fact [i code in php](i code in php)
+- 👨‍💻 All of my projects are available at (coming soon)
 
 - 💬 Ask me about **everything**
 
